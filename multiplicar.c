@@ -2,7 +2,7 @@
 #include "multiplicar_function.c"
 void main() 
 { 
-    int numero1,numero2,contador1,contador2,produto; 
+    int numero1,numero2,produto; 
 
     printf("Número 1: "); 
     scanf("%d",&numero1); 
